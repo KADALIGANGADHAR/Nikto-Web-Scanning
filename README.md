@@ -9,7 +9,7 @@ This project demonstrates how to use **Nikto** to scan a web application for vul
 - **OWASP Juice Shop** (Test Environment)
 
 ## Install Nikto
-### **Nikto is pre-installed on Kali Linux, but if not, install it using:** **```sudo apt update sudo apt upgrade```**
+### **Nikto is pre-installed on Kali Linux, but if not, install it using:** **```sudo apt update&& sudo apt upgrade```**
 ![kali-linux-2024 4-vmware-amd64-2025-03-23-12-24-38](https://github.com/user-attachments/assets/c03aa9d7-5e58-490c-8f29-57bf634de554)
 ### **```sudo apt install nikto```**
 ![kali-linux-2024 4-vmware-amd64-2025-03-23-12-49-09](https://github.com/user-attachments/assets/48147ca8-d20f-4c4c-8415-4bc80fdf1e84)
